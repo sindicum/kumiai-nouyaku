@@ -17,12 +17,12 @@ app/src/main/assets
 ### ・realmデータベースは以下のCSVを作成し、Realm Studioでインポートして下さい。
 #### // yakuzai_DB.csv の中身 //
 id,name,path  
-0,アージラン液剤,02fu0001.pdf  
-1,アーデント水和剤,02mu0001.pdf  
+0,アXXXXXX剤,02fu0001.pdf  
+1,アXXXXXX剤,02mu0001.pdf  
 .  
 .  
 .  
-1345,Ｚボルドー,02ki0304.pdf  
+1345,ＺXXXー,02ki0304.pdf  
   
   
 ### ・csv作成は正規表現を使いながらテキストエディタで体裁を整えて下さい。
