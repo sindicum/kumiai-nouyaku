@@ -14,7 +14,7 @@ app/src/main/assets
   
     
     
-### ・realmデータベースは以下のCSVを作成し、Ｒｅａｌｍ Studioでインポートして下さい。
+### ・realmデータベースは以下のCSVを作成し、Realm Studioでインポートして下さい。
 #### // yakuzai_DB.csv の中身 //
 id,name,path  
 0,アージラン液剤,02fu0001.pdf  
